@@ -1,6 +1,5 @@
 ---
 title: "Text processing - Word Cloud and Sentiment Analysis"
-author: "Gary W. Deinert"
 date: "Saturday, May 09, 2015"
 output: html_document
 ---
