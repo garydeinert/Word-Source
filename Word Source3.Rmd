@@ -28,13 +28,20 @@ library(mpa)                  ## co-words process analysis
 
 mydata <- Corpus(DirSource("C:/wordanalysis"))
 mydata <- tm_map(mydata,stripWhitespace)
+mydata <- tm_map(mydata, removePunctuation)
 mydata <- tm_map(mydata, tolower)         ## note: tolower doesn't return a Text Doc
 mydata <- tm_map(mydata,removeWords,stopwords("english"))
 mydata <- tm_map(mydata,stemDocument)
 mydata <- tm_map(mydata, PlainTextDocument)     ## need to do this before process
 
-coword_matrix <- matriz.mpa(mydata,fmin=3, cmin=3)
+filelist <- list.files("C:/wordanalysis")
 
+
+##coword_mpa <- tm_map(mydata,leer.mpa)
+##coword_matrix <- tm_map(coword_mpa,matriz.mpa)
+
+##cowords <- TermDocumentMatrix(mydata)
+##terms <- findFreqTerms(cowords,lowfreq=3,highfreq=Inf)
 ```
 
 ***
@@ -42,9 +49,12 @@ coword_matrix <- matriz.mpa(mydata,fmin=3, cmin=3)
 #### Section 2: Process the documents.
 #####1. Load all files in the directory "wordanalysis" into a Corpus (cluster)
 #####2. Strip all whitespace
-#####3. Convert all words to lowercase, to avoid count differences between "Word" and "word"
-#####4. Remove the majority of common non-impact words ("the", "and", etc.)
-#####5. Process into wordcloud
+#####3. Remove punctuation so as not to double count "win" and "win,"
+#####4. Convert all words to lowercase, to avoid count differences between "Word" and "word"
+#####5. Remove the majority of common non-impact words ("the", "and", etc.)
+#####6. "Stem" words: put 'example' and 'examples' together as one
+#####7. Process into wordcloud
+
    
 ```{r word_cloud, message=FALSE, warning=FALSE}
 
