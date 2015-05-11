@@ -9,6 +9,7 @@ output: word_document
 ##### Four separate documents are reviewed, all are papers on various subjects within the field of Human Resources: Compensation and Benefits, Industrial Relations, Recruitment, and Strategic Human Resources.
 
 ```{r load_libr, warning=FALSE, message=FALSE}
+
 library(tm)                   ## text management package
 library(wordcloud)            ## word cloud addendum
 library(plyr)                 ## data manipulation
@@ -78,6 +79,7 @@ barplot(plotdf$value,
         mar = c(5,6,4,1) + 0.3,
         las = 1)
 ```
+   
 ## 4 Human Resources texts
    
 ***
