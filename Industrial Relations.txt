@@ -1,0 +1,152 @@
+I. Industrial and Labor Relations.
+
+A. Overview of organized workers in the United States.  As of January 2014, the 16.0 million US workers who are members of a labor union represent 11.3% of the entire workforce, unchanged from 2012.  This is down from the 1983 number of 20.1% of the workforce at that time.  For public sector workers, 35.3% of them are represented by a labor union, and for private sector, 6.7%.  You may conclude that even if you are contemplating a career in Human Resources that this is such a small number that it’s not an important skills, but on the contrary it is one of the most complex and challenging of all of the HR skills and tactics required to be successful in the field.   It is deep and detailed enough that you would need an entire course in labor relations to fully study it.  This chapter merely intends to provide a perspective of the work and effort involved to successfully run a business that is supported with a labor workforce, who is involved, and how they interact.
+
+B.  Some of the most commonly recognized unions in the US.  	
+1. United Steel Workers (USW)
+2. International Brotherhood of Electrical Workers (IBEW)
+3. United Mine Workers (UMW)
+4. United Auto Workers (UAW)
+5. National Education Association (NEA)
+6. United Postal Workers 
+7. Teamsters International
+8. Service Employees International (SEIU)
+9. Fraternal Order of Police
+
+C. Labor Contracts.
+Working with a labor union means working within the scope of the contract, an agreed-upon set of rules and regulations governing wages, hours, working conditions, and benefits, and other practices deemed necessary by both parties for ongoing success of the enterprise as well as its employees.  Each contract is valid for an agreed period of time, typically three or four years, at which time both parties are required to renegotiate a new agreement.  Typical labor contracts carry the following provisions:
+
+* Nature and Duration of the Agreement: Dates from ratification to expiration, identification of the company and location and the Union
+* Relationship between the company and the Union: Limitations on lockouts and strikes, agreement not to oppose legitimate business operations
+* Recognition of the Union: Specific identification of who is covered by this agreement, by department/organization/location and type (full-time, part-time, etc.), and Union’s access to worksite and employees
+* Union Security: What day does a new employee become a member, requirements for membership, processing of Union dues from paychecks
+* Management Rights: Specific rights retained by management, typically the right to hire and fire, make rules, set schedules, discipline/terminate for just cause, invoke layoffs due to lack of work or other legitimate reasons, establish safety rules
+* Hours of Work: When does a new workweek begin, definitions regarding daily or weekly overtime, rate guarantees for “show-up” with no work, rest periods including lunch breaks, definition of a layoff, description of alternative workweek schedules for certain jobs
+* Holidays: Listing of the holidays, pay agreement for the holiday, and who is eligible, including additional wages for those required to work on the holiday, observation of a holiday falling on a non-work day and how it is handled/paid
+* Wage Rates: By job classification, often by pay progression schedule (seniority basis), added wage rate for 2nd and 3rd shift, temporary transfers to another job and how it’s paid
+* Vacations: Definition of the vacation year (most normally calendar or employee’s anniversary year), schedule of vacation granted based on years’ service and when it is granted, unused vacation day payout or forfeiture, schedule preference based on plant or department seniority
+* Health, Welfare, & Pension:  Benefits provisions – health, pension, sickness-and-accident insurance, management of the plan(s)
+* Discharge: Language around just cause, warning notices and progressive discipline, except for major violations (defined: such as “dishonesty, drunkenness or drinking on the job, possession or use or under the influence of non-prescribed drugs on Company premises, gross insubordination, willful destruction of property, fighting or carrying a concealed weapon on Company property”)
+* Grievance Procedure: Definition of steps – 
+Step 1) employee discuss with supervisor 
+Step 2) Local Union rep discuss with Company rep (e.g. Labor Relations Supervisor) 
+Step 3) Local Union Official discuss with higher level Company rep (e.g. Human Resources Manager, often within the scope of a ‘Labor Relations Meeting’ attended by all senior management of the facility and all departmental stewards)
+Step 4, optional) possibly one more level with International Union Rep with Corporate HR Rep 
+Then procedure to initiate Arbitration (discussed as a special case later in the text)
+* Excused Absence from Work: any definition of leave of absence provisions and how granted, personal days, time off for on-the-job injury, report-in procedures, and other miscellaneous time off provisions such as Jury Duty, Medical Leave, Funeral Leave, Illness, military training, etc.
+* Seniority:  What benefits / provisions does seniority grant, i.e. layoffs, vacations and/or vacation preferencing, when seniority rights end (termination, layoff, etc.), provisions for re-employment seniority, transfers to new operations, closing of department or facility, recall rights, job bidding and upgrading, disqualification, shift preference (who gets it, how often you can change, etc.), daily job preference when applicable
+* General Provisions: Non-discrimination clauses, non-violation of state or federal laws, notification requirements (i.e. leaves of absence, terminations), safety training, language restricting “side deals” (arrangement between employee and supervisor that violates the contract, like ‘I’ll pay you three extra hours’ overtime to finish this job tonight’), date of effective increases, stewards and representation, tools required and/or provided, pay for medical treatment following work related injury
+* Collective Bargaining: Identification of any commitment to collectively bargain any provision that may not be covered or clear with regards to the National Labor Relations Act (wages, hours, working conditions, benefits, others)
+* Termination of Agreement: specific dates and limitations, including notice provisions
+* Severance Pay, if any, for layoff or department/facility closure
+* Reference to Supplemental Agreement, if any: some multi-location companies represented by the same union will create a “Master Agreement” that covers common elements like benefits, holidays, contracting out work, grievance procedure, etc. and then local items such as wages, tool allowances, overtime rules, are handled by the locally-negotiated Supplemental Agreement
+* Contracting Out Work: The process of identifying general rights of Union vs Company regarding the decision to no longer perform the work within the bargaining unit – how much notification required, bargaining requirements, etc.  
+
+Discussion Points.
+1. Why do we need such detailed agreements?  Can’t Union and Management work issues out among themselves?
+* Consider that large organizations with more than 200 employees will have similar issues repeatedly occurring that a labor contract can facilitate by communicating how such issues should be handled.  
+* Also, particularly in large organizations, management turnover may introduce a new manager who has no interest in honoring the agreements of the previous manager -- having a commitment in writing helps honor those agreements.  This creates mistrust of management among union members.
+* What other reasons can you identify?
+2. Some department stewards for the union are appointed, others are elected, depending on the by-laws of the Union Local.  What would you think are the advantages / disadvantages for each?
+* Appointed department stewards are particularly effective for union leadership when there is a need for an experienced, highly trained individual in a particular department or work area – particularly to deal with an emotional group.  Elected stewards, of course, carry the support of the individuals in the work group, but can easily fall prey to popular opinion rather than confines of the labor contract.  
+3. What’s wrong with a “side deal” between an employee and a supervisor to stay four extra hours for extra pay (higher than the employee’s normal rate), if both are satisfied with the agreement?
+* Nothing, really, for either the supervisor or the employee.  The problem is with other employees:  perhaps they had a right to have that overtime first, or the employee doing the work is unqualified to do it (again transferring the legitimate right to somebody else).  Both the union and the company are obligated not just to be fair to the employee in question, but to also be fair to everyone else under the labor contract who may be directly or indirectly impacted by this decision.  
+4. Some vacation agreements accrue the entire year’s vacation for all employees January 1st, while others grant the individual employee vacation on his/her anniversary date.  What would you think are the advantages / disadvantages for each, according to the employee or the company?
+* Granting the entire year’s vacation on January 1st is easy to administer, both in re-setting tracking systems to renew all employees’ vacation balances, but also in developing methods to have employees select their vacation for the upcoming year.  Unfortunately it also tends to lead to a bunch of unused vacation at the end of the calendar year for many employees, and if the business doesn’t slow down during the holidays then the company has a management problem.   Many labor contracts also allow a certain number of call-in (absent) days to be applied to vacation, and particularly if there are a high number of unused vacation days at year end, absenteeism can go up dramatically as individuals “burn” absent days and apply vacation.  
+5. Isn’t severance pay for terminated employees required by Federal law?
+* No.  Sorry, it just isn’t.  In most cases it’s not required under State law either.  Many labor contracts provide for severance due to layoff (or “lack of work”) but not just-cause termination.  Others make use of a recall list, and place laid-off employees on that list for a period of time (typically between 6 months and a year) and if he/she is not called back prior to that date then severance is triggered.  Normal severances have a minimum, such as two weeks’ pay for even the most junior employee, and a schedule for seniority (example: one week’s pay for every year of service with a minimum of two week’s benefit).  
+6. Why difficulties or challenges are there to working within the confines of a Union contract?  What benefits do you see?
+* You must know the details of the contract, and apply it evenly to an unending variation of situations.  Because each individual situation is different, sometimes it seems the situation that presents itself is just not fair or right, but it is the agreement.  Depending on the age of the contract and your local arrangement(s) regarding agreement precedent, ancient and/or inappropriate sections of the contract may be called into play just for one side to “win” their particular case.   Also, sometimes over time, both parties’ practices stray from the actual contract language, in benefit to all.  However, one individual caught in a situation may point to the specific language and expect the limiting language of the contract to take hold.  Such cases will often require an arbitrator to decide practice versus language.
+* One of the other challenges to working within a labor contract is speed of implementation of management decisions.  Employees can exercise the right to delay a particular management decision while the official company and labor representatives work out the details of impact on wages, hours, working conditions, or benefits.  Sometimes these particular decisions are agreeable to both local union and management representatives, but the International position of the union is different and delays decision implementation.  This can often be a source of frustration for management and friction between management and union.  
+* On the benefits side, having another “voice” in the management-employee relationship can often be helpful.  For example, HR management can often provide the union with a chance to intervene in an employee dispute (between two individuals) before HR has to deal with the repercussions of their ongoing disagreements.  This gives the union credibility with employees and takes one more sticky issue off the plate of the HR leader.  
+* It’s also good to have a check and balance, because sometimes management makes a bad decision.  It’s good for both employees and managers to know that the decision needs to be thoroughly reviewed before implementation, knowing there may be repercussions. 
+
+D.  The Grievance Process.  
+
+You are the Human Resources Manager at a cereal manufacturing plant in Marion, Indiana.  You arrive one morning and a grievance is sitting on your desk.   You expected this grievance to be arriving since you were involved in making the decision, but you read with interest the actual position of the grievants.
+	“We feel that we were unjustly suspended for an alleged theft of product on April 7 and we are asking to be made whole for all time we have lost and want to be reinstated immediately.”
+In January, the Company asked you to produce quantities of a new cereal called “Chocolate Donutz”.  The product had been manufactured on February 25th as a plant test and sales samples for introducing the new product.  The Quality Control Department supervisor was notified by an email dated March 24th from headquarters that “The Chocolate Donutz produced during the recent Marion Plant test do not meet the specifications for unpuffed/hard clusters and thus are not suitable for release.”
+Without going into too much detail, the reader should be aware that the actual count of the product being removed and put on to the truck were verified by management prior to departure from the manufacturing site.  It is important for a variety of food safety and product management reasons that all test product is destroyed.
+In the early evening of April 7th, the two grievants began loading the product into the dumpsters at the Company-owned landfill.  Both grievants stipulated to the following account:  “The grievants were in the process of disposing the rejected Company product in conformance with their understood regular job duties as fork lift operators.  One or both of the grievants did, on the day in question, bring a case or two of the rejected product to a truck driver who had taken it upon himself to remove some of the rejected product from the Company premises.  There was no evidence of intent on the part of either grievant to profit in any way from the acts in question.”  The grievants were suspended for nine days and on April 13th the above grievance was filed.  
+As the HR Manager, you are aware that theft of product is a dischargeable offense, even on first offense.  However, considering the good previous work record and length of service of each of the two grievants (nearly 50 years total service between the two total), the Company reduced the penalty to nine days’ suspension without pay.
+What do you think the company’s position on this grievance should be?  What do you think the union’s argument will be?  
+
+
+This particular case did go to arbitration.  
+The Union’s case was threefold: 
+       a) According to the union brief, the grievants did not technically violate the Company rule regarding theft because the grievants did not take it upon themselves to personally remove any of the rejected product from the Company premises, but only brought “a case or two” of the rejected product to a truck driver for a private company, who physically removed the product from the premises of the Company; 
+       b) The union brief argued that the Company failed to prove at least two elements of theft – first, that which is taken from another has to have some value, and secondly, whatever the value, the person or persons accused of theft must have intended to convert the value to his own use.   They argued that once the order to destroy the Chocolate Donutz product had been issued, the rejected product had “no intrinsic value”;
+       c) Also, according to the union’s case, the Company allegedly engaged in disparate treatment because two supervisors were previously “caught actually removing from Company premises products or materials of value” and the Company at the arbitration refused to reveal the nature of the punishment meted out to said supervisors.  The Union contended that therefore there was “little or no penalty meted out to these supervisors as a result of their actions and thus the penalties meted out to the grievants was disparate and should be set aside”.
+       
+What do you think about the Union’s arguments?  Which of the above list of typical Union arguments do they most closely resemble?  Do you think there are times when a Union has a limited or weak case but chooses to pursue it anyway, and why would they do this?
+
+Grievance processes normally have between 3 and 5 steps toward the dispensation of the grievance.  
+* Step 1: Employee presents and discusses grievance with his or her supervisor.
+* Step 2: If no resolution, the departmental Union representative discusses with a Labor Relations representative of the Company.
+* Step 3: If no resolution, the Chief Steward or Business Agent of the Union Local presents this grievance to the Human Resources Leader for the organization.
+* Step 4: In some cases, a regional representative for the International Union discusses the grievance with a Corporate Labor Relations Leader.
+* Step 5: The grievance is referred to Arbitration.
+Resolutions along the way can be anything (within the bounds of the contract, and/or mutually agreeable to the senior Union rep and senior HR leader) that both parties agree upon.  This may be an agreement to handle future situations differently, may be pay for time not worked that should have been available to the individual, may be priority for next available overtime hours (as long as someone else is not wronged), etc.  Terminations are regularly moved to a higher step (Step 3 is normal) through previously agreed contract language, and remediation for termination may be reinstatement with or without full or partial back pay, or reduction to another disciplinary action (i.e. suspension) particularly if the facts of the case or management witnesses are challenged appropriately. 
+One grievance standard typically followed by Arbitrators, management, and union representatives alike is the list of Daugherty’s Seven Tests of Just Cause.  This is most applicable to terminations but may apply to any disciplinary action.
+
+
+Daugherty’s Seven Tests of Just Cause.
+1. Reasonableness of the Rule or Order.   Was the rule or managerial order reasonably related to the efficient, safe, and orderly operations and was it related to expected employee performance?
+2. Clear and Unambiguous Notice.   Was the rule communicated to all employees, should the grievant have been able to know about such rule, and was there some expectation of the consequences of violation of this order?
+3. Timely and Thorough Investigation.  Current and complete, or does the lack of thoroughness negatively impact the employee?   Were there additional facts available that were not considered, particularly ones that may help the employee case?  Also avoids the risk of management “holding” a prior event over an employee for months or years.  
+4. Fair Investigation.  Tied to the prior point, but did management simply present facts that support their case and overlook all others?  Did the employee have the right to share his/her side of the story (did they have their “day in court”)?  
+5. Proof of Guilt.  Did the management “judge” find that the employee is indeed guilty as charged?  Did the “judge” seek out facts in the case additional to ones that were presented to him?  Were the facts presented clear and convincing?  The standard for this does not have to reach ‘beyond a reasonable doubt’ but ‘clear and convincing’ or ‘preponderance of evidence’ will typically suffice.  
+6. Equal Treatment.  Were there other employees in similar situations who were handled differently?  Did management allow a rule to lax and then suddenly decide to enforce it upon this particular employee with no reasonable notice?
+7. Fair Penalty.   Often casually referred to as “did the punishment fit the crime”?  Does the severity of the disciplinary action match the offense, or does the employee’s prior work record plus the offense meet the severity of the employment action?
+
+Regarding terminations from a practical perspective, the most common categories of employee job loss due to disciplinary action are Attendance, Progressive Discipline, and Just Cause.  These are fairly straight forward: failure to regularly arrive at work on time and at workstation, repeated violations of a similar nature that have been communicated by management to eventually lead to the termination of the employee, or a single event to such consequence (i.e. fighting, stealing, insubordination) that orderly management of the business requires the employee’s immediate dismissal.  
+
+E. Collective Bargaining.
+There are several different circumstances when collective bargaining is required, and they normally revolve around changes in wages, hours, working conditions, or benefits, although there have been several other cases in the past where the National Labor Relations Board has ruled for inclusion of additional mandatory subjects of bargaining.  Collective bargaining has very few particular rules, except that appropriate union leadership and the right management authority engage in a conversation about the topic at hand.   The most common such discussions occur during the course of daily management of the business, and the most structured of these tends to be at the expiration of the existing contract.  Common practices in collective bargaining include the prior agreement of dates, location, and schedule of upcoming negotiations, the presentation of demands by each party prior to commencement of the discussions, and the talks themselves.  
+In most cases, both the union and the company will appoint a chief spokesperson who will present the arguments from the respective sides.  This is simply a matter of practicality, since both sides may have more than 15 representatives on their side of the table and it’s not manageable to have any of them contributing at will.  It also is a matter of control, since the back-and-forth of negotiations require management of the process to an anticipated resolution acceptable to both parties.  This is best done by a single individual, and that individual will call for breaks or caucuses in order to check in with his or her committee.  Negotiations also regularly call for sub-committees, using either members of the current committee or additional subject matter experts or area representatives.  The sub-committees may be charged with drafting contract language, agreements, or understandings, or may be asked to work together following contract ratification to resolve a matter that both parties feel can be handled outside of the negotiations.   The use of sub-committees can improve the pace of negotiations, helping the entire group of negotiators more quickly understand and agree upon a detailed section of language, and by using several sub-committees at the same time, multiple sections of the contract may be developed simultaneously.  The sub-committee can then return to present their recommendations to the overall bargaining committee, and an agreement can be forged.
+
+In recent years there has been focus and attention on ways to improve relationships through the contract negotiation process.  New bargaining strategies have evolved, including ones that focus more on the union or company interests, rather than the actual position that they have taken on the matter.  For example, rather than a company position that says, “We won’t pay any more than a dime more per hour than we currently pay”, an interest-based bargaining position may say, “We need to maintain current and future economic viability in this competitive environment”.  Sounds vague, but it does open the door toward considering not just a (relatively arbitrary) position on wages, but more of an economic position on the entire package (wages, benefits, paid time off, training, etc.)  This kind of interest focus allows both parties to divert singular attention away from the “zero-sum game” of “I win, you lose”, and direct attention toward areas that may be mutually beneficial or at least acceptable to both parties.  The Federal Mediation and Conciliation Service (FMCS) has had some successes over the years by training employers and unions in Interest-Based Bargaining (IBB) prior to negotiations and intervening for support further on during these negotiations.  
+
+Sometimes negotiations extend beyond the expiration date of the current contract.  In this case, the bargaining committee may recommend to the employee population that they continue to work without a contract in the hopes or expectations that the contract will be finalized and ratified in the near future.  In other cases, when it appears no agreement will be reached in a timely manner, the union may recommend that the population vote on whether to call an economic strike.   Typically, a mediator from the Federal Mediation and Conciliation Service (FMCS) or other similar organization will be called in to attempt to seek resolution between the two parties while the strike authorization process is in place.  
+
+F. Strikes, Walkouts, and Lockouts.
+It’s a sad day when situations get so bad between the parties that the decision has been made to cease negotiations.  Sometimes an emotional issue has gotten away from both parties.  Occasionally one party feels that the other is not negotiating in good faith.  Regardless, the economic acts to try to force the other party into a better bargaining position typically result in much greater damage to both parties.  
+
+If a union decides after the contract has expired that the bargaining has reached a point where further negotiation would be futile (typically called an impasse), they need to follow their internal procedures for reviewing with the represented employees and/or seeking an authorization to strike.  It is also possible that once the contract has expired, management wishes to engage in a lockout of employees – denying the right of any employees covered by the contract to work.  Either scenario means that employees don’t work and companies don’t ship product – economic impact for all involved.
+
+
+G. Organizing Union Representation.
+
+Few scenarios in the Human Resources world are more intense or hotly contested than the union organizing campaign on a nonunion facility.  The National Labor Relations Board, the entity charged with interpreting and administering the National Labor Relations Act, is heavily involved and interested in all such campaigns and the process is tightly regulated from start to finish.  For example, the company cannot threaten that employees will lose their jobs or the facility will be closed by them voting for a union or engaging in protected union activity.  Similarly, the union cannot directly or indirectly threaten that employees will lose their jobs or incur disciplinary action for their failure to vote for or support the union.  
+To start the certification process, a union must verify to the NLRB that no other union is currently representing the employees, and that at least 30% of the employees have interest in union representation.  The NLRB will then intervene to arrange the time and place for a union election, typically within 30 days of the petition presentation.  During those 30 days, either party may be charged with failure to comply to fair organizing rules: employee’s jobs or benefits may not be threatened by either the employer or the union, granting promotions, pay raises, or additional benefits to influence the vote, or making campaign speeches on company time within 24 hours of the election – that is, employees must be provided free choice in the election in the eyes of the NLRB.  The election is determined by a simple majority of the votes cast (“one more than 50%”).  An employer may choose to voluntarily recognize a union without an election if presented with signed authorization cards.  Either way, once the union is certified, failure to bargain with the union is considered an unfair labor practice and subject to charges filed with the NLRB.
+According to the NLRB, the number of petitions for representation has been declining since 2004, although since 2009 this appears to have stabilized.   With some analysis the chart will show that during that time, once a campaign has gotten to an election the union will win nearly 65% of the time.  However, given that 2% of the petitions are dismissed by the NLRB and nearly 35% or all petitions are withdrawn prior to the election, employers have prevailed nearly 60% of the time over the last ten years.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
